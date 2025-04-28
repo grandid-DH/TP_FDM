@@ -1,0 +1,278 @@
+.sea-fruit {
+  padding: 10px;
+  height: 144px;
+  position: relative;
+}
+.main {
+  width: 1920px;
+  height: 1080px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.header {
+  width: 1920px;
+  height: 144px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.rectangle-2 {
+  border-style: solid;
+  border-color: #280a7b;
+  border-width: 1px;
+  width: 1920px;
+  height: 144px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.ellipse-1 {
+  border-radius: 50%;
+  width: 119px;
+  height: 119px;
+  position: absolute;
+  left: 19px;
+  top: 14px;
+  object-fit: cover;
+}
+.titre {
+  position: absolute;
+  inset: 0;
+}
+.titre {
+  color: #7ff8c9;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 712px;
+  top: 8px;
+  width: 496px;
+  height: 66px;
+  -webkit-text-stroke: 1px #000000;
+}
+.fruit-de-mer {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 48px;
+  line-height: 121.12%;
+  font-weight: 400;
+  position: absolute;
+  left: 757px;
+  top: 77px;
+  width: 406px;
+  height: 59px;
+}
+.icones {
+  position: absolute;
+  inset: 0;
+}
+.download {
+  width: 179px;
+  height: 52px;
+  position: static;
+}
+.download-game {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 1758px;
+  top: 28px;
+  width: 127px;
+  height: 23px;
+}
+.icon-download-1 {
+  width: 52px;
+  height: 52px;
+  position: absolute;
+  left: 1706px;
+  top: 14px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.contact {
+  width: 170px;
+  height: 42px;
+  position: static;
+}
+.contactus {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  position: absolute;
+  left: 1754px;
+  top: 95px;
+  width: 127px;
+  height: 23px;
+}
+.icon-contact-1 {
+  width: 42px;
+  height: 42px;
+  position: absolute;
+  left: 1711px;
+  top: 86px;
+  object-fit: cover;
+  aspect-ratio: 1;
+}
+.footer {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-7 {
+  background: #310947;
+  width: 397px;
+  height: 51px;
+  position: absolute;
+  left: 1505px;
+  top: 1018px;
+}
+.rectangle-10 {
+  background: #310947;
+  width: 397px;
+  height: 51px;
+  position: absolute;
+  left: 1005px;
+  top: 1024px;
+}
+.rectangle-9 {
+  background: #310947;
+  width: 397px;
+  height: 51px;
+  position: absolute;
+  left: 506px;
+  top: 1019px;
+}
+.rectangle-8 {
+  background: #310947;
+  width: 397px;
+  height: 51px;
+  position: absolute;
+  left: 19px;
+  top: 1018px;
+}
+.copyright {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 1588px;
+  top: 1027px;
+  width: 228px;
+  height: 35px;
+}
+.credits {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 1083px;
+  top: 1035px;
+  width: 228px;
+  height: 35px;
+}
+.carte-du-site {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 591px;
+  top: 1027px;
+  width: 228px;
+  height: 35px;
+}
+.reseaux-sociaux {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 103px;
+  top: 1027px;
+  width: 228px;
+  height: 35px;
+}
+.nav {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-11 {
+  background: #83d4cd;
+  width: 564px;
+  height: 57px;
+  position: absolute;
+  left: 19px;
+  top: 157px;
+}
+.univers {
+  color: #361648;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 26px;
+  top: 168px;
+  width: 544.43px;
+  height: 45.67px;
+  -webkit-text-stroke: 1px #000000;
+}
+.rectangle-13 {
+  background: #83d4cd;
+  width: 564px;
+  height: 57px;
+  position: absolute;
+  left: 678px;
+  top: 157px;
+}
+.personnages {
+  color: #361648;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 660px;
+  top: 168px;
+  width: 604.92px;
+  height: 45.67px;
+  -webkit-text-stroke: 1px #000000;
+}
+.rectangle-12 {
+  background: #83d4cd;
+  width: 564px;
+  height: 57px;
+  position: absolute;
+  left: 1340px;
+  top: 157px;
+}
+.contact2 {
+  color: #361648;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 1351px;
+  top: 168px;
+  width: 544.43px;
+  height: 45.67px;
+  -webkit-text-stroke: 1px #000000;
+}
