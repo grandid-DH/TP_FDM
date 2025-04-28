@@ -11,7 +11,7 @@ services:
     image: mysql:5.7 
     environment: 
       MYSQL_ROOT_PASSWORD: exemple 
-      MYSQL_DATABASE: mon_projet_php 
+      MYSQL_DATABASE:  
     volumes: 
       - ./docker/mysql/mon_projet_php:/var/lib/mysql 
   adminer: 
